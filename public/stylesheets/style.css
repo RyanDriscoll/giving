@@ -1,4 +1,7 @@
+.navbar-container{
+	list-style: none;
+}
 
-h2{
+.navbar-header h2{
 	font-style: italic;
 }
